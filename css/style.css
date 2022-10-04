@@ -122,7 +122,7 @@ hr {
 #menu-btn {
   padding: 1rem 1rem;
   background-color: #eee;
-  font-size: 8rem;
+  font-size: 6rem;
   color: var(--Soft-Blue);
   border-radius: 0.5rem;
   cursor: pointer;
@@ -239,7 +239,7 @@ hr {
 }
 
 .education .image img {
-  width: 70%;
+  width: 80%;
 }
 
 .education .content {
