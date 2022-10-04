@@ -38,6 +38,7 @@ html {
 
 hr {
   border: solid;
+  border-color: rgb(34, 189, 34);
 }
 
 .heading {
@@ -62,7 +63,7 @@ hr {
 .all-btn {
   padding: 1rem 3rem;
   font-size: 3rem;
-  background-color: var(--Soft-Blue);
+  background-color: rgb(34, 189, 34);
   border-radius: 0.5rem;
   color: #fff;
 }
@@ -224,7 +225,8 @@ hr {
 /* home section ends */
 
 .education {
-  padding-top: 15rem;
+  padding-top: 10rem;
+  padding-bottom: 5rem;
   display: flex;
   align-items: center;
   flex-wrap: wrap;
@@ -237,8 +239,7 @@ hr {
 }
 
 .education .image img {
-  width: 500px;
-  margin-top: 5rem;
+  width: 800px;
 }
 
 .education .content {
@@ -314,14 +315,14 @@ hr {
 }
 
 .experience .box {
-  border: 2px solid var(--Soft-Blue);
+  border: 2px solid rgb(34, 189, 34);
   box-shadow: var(--box-shadow);
   border-radius: 0.5rem;
   text-align: center;
   padding: 2.5rem;
 }
 .experience .box:hover {
-  border: 2px solid var(--Soft-Blue);
+  border: 2px solid rgb(34, 189, 34);
   box-shadow: none;
 }
 
